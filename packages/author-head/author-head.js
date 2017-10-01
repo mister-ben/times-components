@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     })
   },
   title: {
-    fontFamily: "TimesDigital-RegularSC",
+    fontFamily: "TimesDigitalW04-RegularSC",
     fontSize: 15,
     color: "#696969",
     ...Platform.select({
@@ -124,12 +124,6 @@ const ResponsiveStyles = {
 const AuthorHead = props => {
   const { name, title, twitter, bio, uri, onTwitterLinkPress } = props;
 
-  const imageComponent = uri ? (
-    <View style={styles.photoContainer}>
-      <Image uri={uri} style={styles.roundImage} aspectRatio={1 / 1} />
-    </View>
-  ) : null;
-
   return (
     <View style={styles.wrapper} pointerEvents="box-none">
       <View accessibilityRole="banner" style={styles.container}>
@@ -150,11 +144,9 @@ const AuthorHead = props => {
           <Image source={{ uri }} style={[styles.roundImage]} />
         </View>
       </View>
-      {imageComponent}
     </View>
   );
 };
-
 AuthorHead.defaultProps = {
   name: "",
   title: "",
@@ -167,14 +159,9 @@ AuthorHead.propTypes = {
   name: PropTypes.string,
   title: PropTypes.string,
   uri: PropTypes.string,
-<<<<<<< HEAD
   bio: PropTypes.arrayOf(treePropType),
   twitter: PropTypes.string,
   onTwitterLinkPress: PropTypes.func.isRequired
-=======
-  bio: PropTypes.arrayOf(PropTypes.object),
-  twitter: PropTypes.string
->>>>>>> chore: fix snaphshots
 };
 
 const TwitterLink = ({ handle, onPress }) => {
@@ -184,15 +171,11 @@ const TwitterLink = ({ handle, onPress }) => {
   const url = `https://twitter.com/${handle}`;
 
   return (
-<<<<<<< HEAD
     <TextLink
       style={styles.twitter}
       url={url}
       onPress={e => onPress(e, { handle, url })}
     >
-=======
-    <TextLink style={styles.twitter} url={target} onPress={() => {}}>
->>>>>>> chore: fix snaphshots
       @{handle}
     </TextLink>
   );
