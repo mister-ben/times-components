@@ -10,22 +10,6 @@
     "prettier:diff": "prettier --list-different '**/*.js'",
     "lint": "eslint . && npm run prettier:diff"
   },
-  "jest": {
-    "preset": "react-native",
-    "rootDir": "../../",
-    "collectCoverageFrom": [
-      "**/*.js",
-      "!**/*.stories.js",
-      "!__tests__/**",
-      "!coverage/**"
-    ],
-    "transformIgnorePatterns": [
-      "node_modules/(?!@times-components)/"
-    ],
-    "testMatch": [
-      "<rootDir>/packages/link/__tests__/**/*.test.js"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/newsuk/times-components.git"

@@ -1,8 +1,3 @@
-/* eslint-env jest */
-
-import "react-native";
-import shared from "./shared";
-
 jest.mock("react-native", () => {
   const reactNative = require.requireActual("react-native");
   reactNative.Platform.OS = "android";
@@ -11,5 +6,3 @@ jest.mock("react-native", () => {
     .mockImplementation(obj => obj.android || obj.default);
   return reactNative;
 });
-
-shared();
