@@ -10,13 +10,14 @@ import AuthorProfileLoading from "./author-profile-loading";
 import AuthorProfileContent from "./author-profile-content";
 
 const AuthorProfile = ({
-  isLoading,
-  error,
+  articleImageRatio,
   author,
+  error,
+  isLoading,
+  onArticlePress,
+  onTwitterLinkPress,
   page: initPage,
   pageSize: initPageSize,
-  onTwitterLinkPress,
-  onArticlePress,
   slug
 }) => {
   if (error) {
@@ -24,7 +25,7 @@ const AuthorProfile = ({
   }
 
   if (isLoading) {
-    return <AuthorProfileLoading />;
+    return <AuthorProfileLoading ratio={articleImageRatio}/>;
   }
 
   if (author) {
@@ -66,13 +67,14 @@ const AuthorProfile = ({
 };
 
 AuthorProfile.defaultProps = {
-  isLoading: true,
-  error: null,
+  articleImageRatio: 2 / 3,
   author: null,
-  page: 1,
-  pageSize: 10,
+  error: null,
+  isLoading: true,
+  onArticlePress: () => {},
   onTwitterLinkPress: () => {},
-  onArticlePress: () => {}
+  page: 1,
+  pageSize: 10
 };
 
 AuthorProfile.propTypes = {
