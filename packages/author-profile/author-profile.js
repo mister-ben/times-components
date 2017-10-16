@@ -25,7 +25,7 @@ const AuthorProfile = ({
   }
 
   if (isLoading) {
-    return <AuthorProfileLoading ratio={articleImageRatio}/>;
+    return <AuthorProfileLoading ratio={articleImageRatio} />;
   }
 
   if (author) {
