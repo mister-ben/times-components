@@ -10,7 +10,7 @@ exports[`Date Publication test renders a DatePublication component with content 
     Array [
       Object {
         "color": "#696969",
-        "fontFamily": "GillSansMTStd-Medium",
+        "fontFamily": "GillSansW01-Medium",
         "fontSize": 13,
         "lineHeight": 15,
       },
@@ -34,7 +34,7 @@ exports[`Date Publication test renders a DatePublication component with red font
     Array [
       Object {
         "color": "#696969",
-        "fontFamily": "GillSansMTStd-Medium",
+        "fontFamily": "GillSansW01-Medium",
         "fontSize": 13,
         "lineHeight": 15,
       },

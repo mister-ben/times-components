@@ -12,7 +12,7 @@ exports[`renders an article-summary component 1`] = `
     style={
       Object {
         "color": "#333333",
-        "fontFamily": "GillSansMTStd-Medium",
+        "fontFamily": "GillSansW01-Medium",
         "fontSize": 12,
         "letterSpacing": 1,
         "marginBottom": 2,
@@ -48,7 +48,7 @@ exports[`renders an article-summary component 1`] = `
       Object {
         "color": "#696969",
         "flexWrap": "wrap",
-        "fontFamily": "TimesDigitalW04",
+        "fontFamily": "TimesDigital",
         "fontSize": 14,
         "lineHeight": 20,
         "marginBottom": 10,
@@ -64,7 +64,7 @@ exports[`renders an article-summary component 1`] = `
       Array [
         Object {
           "color": "#696969",
-          "fontFamily": "GillSansMTStd-Medium",
+          "fontFamily": "GillSansW01-Medium",
           "fontSize": 13,
           "lineHeight": 15,
         },
@@ -91,7 +91,7 @@ exports[`renders an article-summary component with content 1`] = `
     style={
       Object {
         "color": "#333333",
-        "fontFamily": "GillSansMTStd-Medium",
+        "fontFamily": "GillSansW01-Medium",
         "fontSize": 12,
         "letterSpacing": 1,
         "marginBottom": 2,
@@ -127,7 +127,7 @@ exports[`renders an article-summary component with content 1`] = `
       Object {
         "color": "#696969",
         "flexWrap": "wrap",
-        "fontFamily": "TimesDigitalW04",
+        "fontFamily": "TimesDigital",
         "fontSize": 14,
         "lineHeight": 20,
         "marginBottom": 10,
@@ -190,7 +190,7 @@ exports[`renders an article-summary component with content 1`] = `
       Array [
         Object {
           "color": "#696969",
-          "fontFamily": "GillSansMTStd-Medium",
+          "fontFamily": "GillSansW01-Medium",
           "fontSize": 13,
           "lineHeight": 15,
         },

@@ -4,14 +4,14 @@ import PropTypes from "prop-types";
 import { renderTrees, treePropType } from "@times-components/markup";
 import DatePublication from "@times-components/date-publication";
 
-const fontFamilyWebAndIos = "TimesDigitalW04";
-const fontFamilyAndroid = "TimesDigitalW04-Regular";
+const fontFamilyWebAndIos = "TimesDigital";
+const fontFamilyAndroid = "TimesDigital-Regular";
 
 const styles = {
   container: {},
   label: {
     color: "#333333",
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     fontSize: 12,
     marginBottom: 2,
     letterSpacing: 1

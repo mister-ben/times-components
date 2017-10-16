@@ -50,7 +50,7 @@ exports[`does not render Article Image display is not received 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -69,7 +69,7 @@ exports[`does not render Article Image display is not received 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -199,7 +199,7 @@ exports[`renders inline image (landscape) correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -218,7 +218,7 @@ exports[`renders inline image (landscape) correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -312,7 +312,7 @@ exports[`renders inline image (portrait) correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -331,7 +331,7 @@ exports[`renders inline image (portrait) correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -410,7 +410,7 @@ exports[`renders primary image correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -429,7 +429,7 @@ exports[`renders primary image correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -523,7 +523,7 @@ exports[`renders secondary image correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },
@@ -542,7 +542,7 @@ exports[`renders secondary image correctly 1`] = `
             Array [
               Object {
                 "color": "#696969",
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 13,
                 "lineHeight": 16,
               },

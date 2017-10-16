@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
   },
   arrow: {
     color: "#006699",
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     fontSize: 14
   },
   border: {
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   },
   label: {
     color: "#696969",
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     fontSize: 15,
     ...Platform.select({
       web: {

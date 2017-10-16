@@ -6,8 +6,8 @@ import Image from "@times-components/image";
 import { TextLink } from "@times-components/link";
 import { renderTrees, treePropType } from "@times-components/markup";
 
-const fontFamilyWebAndIos = "TimesDigitalW04";
-const fontFamilyAndroid = "TimesDigitalW04-Regular";
+const fontFamilyWebAndIos = "TimesDigital";
+const fontFamilyAndroid = "TimesDigital-Regular";
 
 const styles = StyleSheet.create({
   container: {
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   },
   twitter: {
     fontSize: 18,
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     color: "#006699",
     paddingTop: 16,
     textDecorationLine: "none"

@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const styles = {
   title: {
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     fontSize: 12,
     lineHeight: 12,
     fontWeight: "400",

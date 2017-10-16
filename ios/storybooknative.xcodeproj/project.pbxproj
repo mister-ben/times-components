@@ -20,7 +20,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		515F7D171F0E7BA000966DF3 /* GillSansMTStd-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 515F7D131F0E7BA000966DF3 /* GillSansMTStd-Medium.ttf */; };
+		515F7D171F0E7BA000966DF3 /* GillSansW01-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 515F7D131F0E7BA000966DF3 /* GillSansW01-Medium.ttf */; };
 		515F7D191F0E7BA000966DF3 /* TimesDigital-RegularSC.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 515F7D151F0E7BA000966DF3 /* TimesDigital-RegularSC.ttf */; };
 		515F7D1A1F0E7BA000966DF3 /* TimesModern-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 515F7D161F0E7BA000966DF3 /* TimesModern-Bold.ttf */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
@@ -36,9 +36,9 @@
 		87396A371EF3E9980076CBAD /* BrightcovePlayerSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87396A361EF3E9980076CBAD /* BrightcovePlayerSDK.framework */; };
 		87396A391EF3E9F10076CBAD /* bcovpuiiconfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87396A381EF3E9F10076CBAD /* bcovpuiiconfont.ttf */; };
 		A811797A1F72B75A00BEE77B /* TimesModern-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A81179791F72B75A00BEE77B /* TimesModern-Regular.ttf */; };
-		A811797B1F72B75D00BEE77B /* TimesDigitalW04-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795C1F72B6D600BEE77B /* TimesDigitalW04-Bold.ttf */; };
-		A811797C1F72B75F00BEE77B /* TimesDigitalW04-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795D1F72B6D600BEE77B /* TimesDigitalW04-Italic.ttf */; };
-		A811797D1F72B76200BEE77B /* TimesDigitalW04-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795E1F72B6D600BEE77B /* TimesDigitalW04-Regular.ttf */; };
+		A811797B1F72B75D00BEE77B /* TimesDigital-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795C1F72B6D600BEE77B /* TimesDigital-Bold.ttf */; };
+		A811797C1F72B75F00BEE77B /* TimesDigital-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795D1F72B6D600BEE77B /* TimesDigital-Italic.ttf */; };
+		A811797D1F72B76200BEE77B /* TimesDigital-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A811795E1F72B6D600BEE77B /* TimesDigital-Regular.ttf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		ED3A0BB01F38C8F300048867 /* RNTBrightcove.m in Sources */ = {isa = PBXBuildFile; fileRef = ED3A0BAD1F38C8F300048867 /* RNTBrightcove.m */; };
 		ED3A0BB11F38C8F300048867 /* RNTBrightcoveManager.m in Sources */ = {isa = PBXBuildFile; fileRef = ED3A0BAF1F38C8F300048867 /* RNTBrightcoveManager.m */; };
@@ -253,7 +253,7 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = storybooknative/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = storybooknative/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		515F7D131F0E7BA000966DF3 /* GillSansMTStd-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GillSansMTStd-Medium.ttf"; path = "../dist/public/fonts/GillSansMTStd-Medium.ttf"; sourceTree = "<group>"; };
+		515F7D131F0E7BA000966DF3 /* GillSansW01-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GillSansW01-Medium.ttf"; path = "../dist/public/fonts/GillSansW01-Medium.ttf"; sourceTree = "<group>"; };
 		515F7D151F0E7BA000966DF3 /* TimesDigital-RegularSC.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigital-RegularSC.ttf"; path = "../dist/public/fonts/TimesDigital-RegularSC.ttf"; sourceTree = "<group>"; };
 		515F7D161F0E7BA000966DF3 /* TimesModern-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesModern-Bold.ttf"; path = "../dist/public/fonts/TimesModern-Bold.ttf"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
@@ -269,9 +269,9 @@
 		87396A321EF3E9390076CBAD /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		87396A361EF3E9980076CBAD /* BrightcovePlayerSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BrightcovePlayerSDK.framework; sourceTree = "<group>"; };
 		87396A381EF3E9F10076CBAD /* bcovpuiiconfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bcovpuiiconfont.ttf; sourceTree = "<group>"; };
-		A811795C1F72B6D600BEE77B /* TimesDigitalW04-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigitalW04-Bold.ttf"; path = "../dist/public/fonts/TimesDigitalW04-Bold.ttf"; sourceTree = "<group>"; };
-		A811795D1F72B6D600BEE77B /* TimesDigitalW04-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigitalW04-Italic.ttf"; path = "../dist/public/fonts/TimesDigitalW04-Italic.ttf"; sourceTree = "<group>"; };
-		A811795E1F72B6D600BEE77B /* TimesDigitalW04-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigitalW04-Regular.ttf"; path = "../dist/public/fonts/TimesDigitalW04-Regular.ttf"; sourceTree = "<group>"; };
+		A811795C1F72B6D600BEE77B /* TimesDigital-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigital-Bold.ttf"; path = "../dist/public/fonts/TimesDigital-Bold.ttf"; sourceTree = "<group>"; };
+		A811795D1F72B6D600BEE77B /* TimesDigital-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigital-Italic.ttf"; path = "../dist/public/fonts/TimesDigital-Italic.ttf"; sourceTree = "<group>"; };
+		A811795E1F72B6D600BEE77B /* TimesDigital-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesDigital-Regular.ttf"; path = "../dist/public/fonts/TimesDigital-Regular.ttf"; sourceTree = "<group>"; };
 		A81179791F72B75A00BEE77B /* TimesModern-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "TimesModern-Regular.ttf"; path = "../dist/public/fonts/TimesModern-Regular.ttf"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
 		ED3A0BAC1F38C8F300048867 /* RNTBrightcove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNTBrightcove.h; path = "../packages/brightcove-video/ios/RNTBrightcove/RNTBrightcove.h"; sourceTree = "<group>"; };
@@ -407,13 +407,13 @@
 		515F7CF91F0E7B5600966DF3 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				515F7D131F0E7BA000966DF3 /* GillSansMTStd-Medium.ttf */,
+				515F7D131F0E7BA000966DF3 /* GillSansW01-Medium.ttf */,
 				515F7D151F0E7BA000966DF3 /* TimesDigital-RegularSC.ttf */,
 				515F7D161F0E7BA000966DF3 /* TimesModern-Bold.ttf */,
 				A81179791F72B75A00BEE77B /* TimesModern-Regular.ttf */,
-				A811795C1F72B6D600BEE77B /* TimesDigitalW04-Bold.ttf */,
-				A811795D1F72B6D600BEE77B /* TimesDigitalW04-Italic.ttf */,
-				A811795E1F72B6D600BEE77B /* TimesDigitalW04-Regular.ttf */,
+				A811795C1F72B6D600BEE77B /* TimesDigital-Bold.ttf */,
+				A811795D1F72B6D600BEE77B /* TimesDigital-Italic.ttf */,
+				A811795E1F72B6D600BEE77B /* TimesDigital-Regular.ttf */,
 			);
 			name = Fonts;
 			sourceTree = "<group>";
@@ -830,14 +830,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				A811797B1F72B75D00BEE77B /* TimesDigitalW04-Bold.ttf in Resources */,
-				A811797C1F72B75F00BEE77B /* TimesDigitalW04-Italic.ttf in Resources */,
+				A811797B1F72B75D00BEE77B /* TimesDigital-Bold.ttf in Resources */,
+				A811797C1F72B75F00BEE77B /* TimesDigital-Italic.ttf in Resources */,
 				A811797A1F72B75A00BEE77B /* TimesModern-Regular.ttf in Resources */,
 				87396A391EF3E9F10076CBAD /* bcovpuiiconfont.ttf in Resources */,
 				515F7D1A1F0E7BA000966DF3 /* TimesModern-Bold.ttf in Resources */,
 				515F7D191F0E7BA000966DF3 /* TimesDigital-RegularSC.ttf in Resources */,
-				A811797D1F72B76200BEE77B /* TimesDigitalW04-Regular.ttf in Resources */,
-				515F7D171F0E7BA000966DF3 /* GillSansMTStd-Medium.ttf in Resources */,
+				A811797D1F72B76200BEE77B /* TimesDigital-Regular.ttf in Resources */,
+				515F7D171F0E7BA000966DF3 /* GillSansW01-Medium.ttf in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

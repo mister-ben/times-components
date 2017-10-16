@@ -1,8 +1,8 @@
 import { StyleSheet, Platform } from "react-native";
 import globalStyle from "./article-global-style";
 
-const bodyFontFamilyWebIos = "TimesDigitalW04";
-const bodyFontFamilyAndroid = "TimesDigitalW04-Regular";
+const bodyFontFamilyWebIos = "TimesDigital";
+const bodyFontFamilyAndroid = "TimesDigital-Regular";
 
 const styles = {};
 

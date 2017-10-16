@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 
 import TimesWatermark from "./times-watermark";
 
-const fontFamilyWebAndIos = "TimesDigitalW04";
-const fontFamilyAndroid = "TimesDigitalW04-Regular";
+const fontFamilyWebAndIos = "TimesDigital";
+const fontFamilyAndroid = "TimesDigital-Regular";
 
 const getStyles = (width, height) =>
   StyleSheet.create({

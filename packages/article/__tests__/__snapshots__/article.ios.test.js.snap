@@ -114,7 +114,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Array [
               Object {
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 12,
                 "fontWeight": "400",
                 "letterSpacing": 1.2,
@@ -230,7 +230,7 @@ exports[`Article test on ios renders article no flags 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -274,7 +274,7 @@ exports[`Article test on ios renders article no flags 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -309,7 +309,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -368,7 +368,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -412,7 +412,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -444,7 +444,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -476,7 +476,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -508,7 +508,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -540,7 +540,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -572,7 +572,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -604,7 +604,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -636,7 +636,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -668,7 +668,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -700,7 +700,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -732,7 +732,7 @@ exports[`Article test on ios renders article no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1042,7 +1042,7 @@ exports[`Article test on ios renders article no label 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -1086,7 +1086,7 @@ exports[`Article test on ios renders article no label 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -1121,7 +1121,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1180,7 +1180,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1224,7 +1224,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1256,7 +1256,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1288,7 +1288,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1320,7 +1320,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1352,7 +1352,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1384,7 +1384,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1416,7 +1416,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1448,7 +1448,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1480,7 +1480,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1512,7 +1512,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1544,7 +1544,7 @@ exports[`Article test on ios renders article no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1715,7 +1715,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -1759,7 +1759,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -1794,7 +1794,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1853,7 +1853,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1897,7 +1897,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1929,7 +1929,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1961,7 +1961,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -1993,7 +1993,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2025,7 +2025,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2057,7 +2057,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2089,7 +2089,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2121,7 +2121,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2153,7 +2153,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2185,7 +2185,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2217,7 +2217,7 @@ exports[`Article test on ios renders article no label no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2368,7 +2368,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -2412,7 +2412,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -2447,7 +2447,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2506,7 +2506,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2550,7 +2550,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2582,7 +2582,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2614,7 +2614,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2646,7 +2646,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2678,7 +2678,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2710,7 +2710,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2742,7 +2742,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2774,7 +2774,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2806,7 +2806,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2838,7 +2838,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2870,7 +2870,7 @@ exports[`Article test on ios renders article no label no flags no standfirst 1`]
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -2957,7 +2957,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Array [
               Object {
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 12,
                 "fontWeight": "400",
                 "letterSpacing": 1.2,
@@ -3192,7 +3192,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -3236,7 +3236,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -3271,7 +3271,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3330,7 +3330,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3374,7 +3374,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3406,7 +3406,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3438,7 +3438,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3470,7 +3470,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3502,7 +3502,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3534,7 +3534,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3566,7 +3566,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3598,7 +3598,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3630,7 +3630,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3662,7 +3662,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3694,7 +3694,7 @@ exports[`Article test on ios renders article no standfirst 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -3781,7 +3781,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Array [
               Object {
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 12,
                 "fontWeight": "400",
                 "letterSpacing": 1.2,
@@ -3877,7 +3877,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -3921,7 +3921,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -3956,7 +3956,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4015,7 +4015,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4059,7 +4059,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4091,7 +4091,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4123,7 +4123,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4155,7 +4155,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4187,7 +4187,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4219,7 +4219,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4251,7 +4251,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4283,7 +4283,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4315,7 +4315,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4347,7 +4347,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4379,7 +4379,7 @@ exports[`Article test on ios renders article no standfirst no flags 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4669,7 +4669,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -4713,7 +4713,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -4748,7 +4748,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4807,7 +4807,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4851,7 +4851,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4883,7 +4883,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4915,7 +4915,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4947,7 +4947,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -4979,7 +4979,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5011,7 +5011,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5043,7 +5043,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5075,7 +5075,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5107,7 +5107,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5139,7 +5139,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5171,7 +5171,7 @@ exports[`Article test on ios renders article no standfirst no label 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5258,7 +5258,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Array [
               Object {
-                "fontFamily": "GillSansMTStd-Medium",
+                "fontFamily": "GillSansW01-Medium",
                 "fontSize": 12,
                 "fontWeight": "400",
                 "letterSpacing": 1.2,
@@ -5513,7 +5513,7 @@ exports[`Article test on ios renders full article 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "GillSansMTStd-Medium",
+                    "fontFamily": "GillSansW01-Medium",
                     "fontSize": 13,
                     "lineHeight": 14,
                   },
@@ -5557,7 +5557,7 @@ exports[`Article test on ios renders full article 1`] = `
               Array [
                 Object {
                   "color": "#696969",
-                  "fontFamily": "GillSansMTStd-Medium",
+                  "fontFamily": "GillSansW01-Medium",
                   "fontSize": 13,
                   "lineHeight": 15,
                 },
@@ -5592,7 +5592,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5651,7 +5651,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5731,7 +5731,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -5750,7 +5750,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -5792,7 +5792,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5824,7 +5824,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -5907,7 +5907,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -5926,7 +5926,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -5968,7 +5968,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6175,7 +6175,7 @@ exports[`Article test on ios renders full article 1`] = `
                   "borderStyle": "solid",
                   "borderWidth": 1,
                   "color": "#696969",
-                  "fontFamily": "TimesDigitalW04",
+                  "fontFamily": "TimesDigital",
                   "fontSize": 12,
                   "letterSpacing": 1.5,
                   "paddingBottom": 5,
@@ -6212,7 +6212,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6295,7 +6295,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -6314,7 +6314,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -6356,7 +6356,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6439,7 +6439,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -6458,7 +6458,7 @@ exports[`Article test on ios renders full article 1`] = `
                   Array [
                     Object {
                       "color": "#696969",
-                      "fontFamily": "GillSansMTStd-Medium",
+                      "fontFamily": "GillSansW01-Medium",
                       "fontSize": 13,
                       "lineHeight": 16,
                     },
@@ -6500,7 +6500,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6532,7 +6532,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6564,7 +6564,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6596,7 +6596,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6628,7 +6628,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,
@@ -6660,7 +6660,7 @@ exports[`Article test on ios renders full article 1`] = `
           style={
             Object {
               "color": "#333333",
-              "fontFamily": "TimesDigitalW04",
+              "fontFamily": "TimesDigital",
               "fontSize": 17,
               "fontStyle": "normal",
               "lineHeight": 26,

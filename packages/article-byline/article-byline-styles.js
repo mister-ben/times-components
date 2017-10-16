@@ -16,7 +16,7 @@ const customStyle = Platform.select({
 const styles = StyleSheet.create({
   byline: {
     fontSize: 13,
-    fontFamily: "GillSansMTStd-Medium",
+    fontFamily: "GillSansW01-Medium",
     ...customStyle
   },
   bylineColor: {

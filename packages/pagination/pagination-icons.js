@@ -5,7 +5,7 @@ import Svg, { G, Path } from "svgs";
 
 const textStyle = {
   height: 15,
-  fontFamily: "GillSansMTStd-Medium",
+  fontFamily: "GillSansW01-Medium",
   fontSize: 15,
   color: "#006699",
   ...Platform.select({
