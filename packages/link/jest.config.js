@@ -4,6 +4,6 @@ module.exports = {
   "transformIgnorePatterns": [
     "node_modules/(?!@times-components)/"
   ],
-  testMatch: [`${__dirname}/__tests__/**/*.test.js`],
+  testMatch: [`${__dirname}/tests/**/*.test.js`],
   projects: [`${__dirname}/**/jest.config.js`]
 };

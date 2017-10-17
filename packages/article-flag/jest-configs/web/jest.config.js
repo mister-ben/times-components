@@ -4,7 +4,7 @@ module.exports = {
   preset: "react-native",
   rootDir: "../../../..",
   transformIgnorePatterns: ["node_modules/(?!@times-components)/"],
-  testMatch: [path.join(__dirname, "../../__tests__/**/*.test.web.js")],
+  testMatch: [path.join(__dirname, "../../tests/**/*.test.web.js")],
   moduleNameMapper: {
     "react-native": "react-native-web"
   },

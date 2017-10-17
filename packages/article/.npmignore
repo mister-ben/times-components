@@ -1,5 +1,5 @@
 *.stories.js
-__tests__
+tests
 *.fructose.js
 *.test.js
 fixtures
