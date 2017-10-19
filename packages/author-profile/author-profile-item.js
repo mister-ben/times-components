@@ -28,7 +28,7 @@ const AuthorProfileItem = item => {
       <View>
         <Card loading={loading} />
       </View>
-    )
+    );
   }
 
   return (
