@@ -1,8 +1,15 @@
 import React from "react";
 import get from "lodash.get";
-import { View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import Card from "@times-components/card";
 import Link from "@times-components/link";
+
+const styles = StyleSheet.create({
+  container: {
+    paddingBottom: 10,
+    paddingTop: 10
+  }
+});
 
 const AuthorProfileItem = item => {
   const {
@@ -25,7 +32,7 @@ const AuthorProfileItem = item => {
 
   if (loading) {
     return (
-      <View>
+      <View style={[styles.container, style]}>
         <Card loading={loading} />
       </View>
     );
@@ -33,7 +40,7 @@ const AuthorProfileItem = item => {
 
   return (
     <Link url={url} onPress={onPress}>
-      <View style={style}>
+      <View style={[styles.container, style]}>
         <Card
           headline={title}
           text={content}
