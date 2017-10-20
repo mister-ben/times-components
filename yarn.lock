@@ -207,6 +207,15 @@
     react-treebeard "^2.0.3"
     redux "^3.7.2"
 
+"@times-components/brightcove-video@1.6.4":
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/@times-components/brightcove-video/-/brightcove-video-1.6.4.tgz#038d1337baacf9b5cf38a054255771da0b47629e"
+  dependencies:
+    prop-types "15.6.0"
+    react-native-svg "5.4.1"
+    react-native-web "0.1.7"
+    svgs "3.1.0"
+
 "@times-components/fructose@2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@times-components/fructose/-/fructose-2.2.1.tgz#6235c445ba8b929cb4a9ef4a35693322e3da0ff1"
@@ -690,8 +699,8 @@ autoprefixer@^7.1.1:
     postcss-value-parser "^3.2.3"
 
 aws-sdk@^2.90.0:
-  version "2.141.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.141.0.tgz#3d96a5970fd9f540ceabcc1d4baeb33b71583aa7"
+  version "2.137.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.137.0.tgz#2abbdc2b8642afd0786a17635d9488cc87791171"
   dependencies:
     buffer "4.9.1"
     crypto-browserify "1.0.9"
@@ -2411,10 +2420,14 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000752"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000752.tgz#daa129d54ce700e94ad14388bdef514ec1e2dd54"
+  version "1.0.30000748"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000748.tgz#785d9edfcd645bf795c6ff3ced33c45d580c48a0"
 
-caniuse-lite@^1.0.30000744, caniuse-lite@^1.0.30000748:
+caniuse-lite@^1.0.30000744:
+  version "1.0.30000748"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000748.tgz#44c8d6da52ad65a5d7b9dca4efebd0bdd982ba09"
+
+caniuse-lite@^1.0.30000748:
   version "1.0.30000752"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000752.tgz#0a79df520669d92ddc7f57406eed935948263130"
 

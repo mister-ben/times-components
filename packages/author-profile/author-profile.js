@@ -25,14 +25,12 @@ const AuthorProfile = ({
   if (isLoading) {
     return (
       <AuthorProfileContent
-        articles={
-          Array(initPageSize)
-            .fill()
-            .map((_, id) => ({
-              id,
-              loading: true
-            }))
-        }
+        articles={Array(initPageSize)
+          .fill()
+          .map((_, id) => ({
+            id,
+            loading: true
+          }))}
       />
     );
   }
