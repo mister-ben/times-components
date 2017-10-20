@@ -24,6 +24,25 @@ describe("WithTrackingContext", () => {
     return TestTracking;
   };
 
+  class ErrorBoundary extends React.Component {
+    static get propTypes() {
+      return {
+        children: PropTypes.element.isRequired,
+        errorListener: PropTypes.func.isRequired
+      };
+    }
+    constructor(props) {
+      super(props);
+      this.state = { hasError: false };
+    }
+    componentDidCatch(error) {
+      this.props.errorListener(error);
+    }
+    render() {
+      return this.props.children;
+    }
+  }
+
   const RealDate = global.Date;
 
   afterEach(() => {
@@ -115,11 +134,15 @@ describe("WithTrackingContext", () => {
         trackingObject: "TestObject2"
       })
     );
+    const errorListener = jest.fn();
 
-    const render = () =>
-      renderer.create(<WithTrackingAndContext analyticsStream={() => {}} />);
+    renderer.create(
+      <ErrorBoundary errorListener={errorListener}>
+        <WithTrackingAndContext analyticsStream={() => {}} />
+      </ErrorBoundary>
+    );
 
-    expect(render).toThrowErrorMatchingSnapshot();
+    expect(errorListener.mock.calls).toMatchSnapshot();
   });
 
   it("root context tracks page views", () => {
@@ -161,9 +184,15 @@ describe("WithTrackingContext", () => {
       { trackingObject: "TestObject2" }
     );
 
-    const render = () => renderer.create(<WithTrackingAndContext />);
+    const errorListener = jest.fn();
 
-    expect(render).toThrowErrorMatchingSnapshot();
+    renderer.create(
+      <ErrorBoundary errorListener={errorListener}>
+        <WithTrackingAndContext />
+      </ErrorBoundary>
+    );
+
+    expect(errorListener.mock.calls).toMatchSnapshot();
   });
 
   it("forwards props to wrapped component", () => {
