@@ -40,7 +40,7 @@ const AuthorProfile = ({
         isLoading: articlesLoading
       }) => (
         <AuthorProfileContent
-          loading={isLoading}
+          isLoading={isLoading}
           name={name}
           biography={biography}
           uri={uri}
