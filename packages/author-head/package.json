@@ -61,18 +61,11 @@
     "webpack": "3.3.0"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@times-components/image": "1.5.3",
     "@times-components/link": "0.10.1",
     "@times-components/markup": "0.11.1",
     "@times-components/tracking": "0.2.1",
-=======
-    "@times-components/image": "1.5.2",
-    "@times-components/link": "0.10.0",
-    "@times-components/markup": "0.11.0",
-    "@times-components/tracking": "0.2.0",
     "@times-components/responsive-hoc": "0.0.1",
->>>>>>> feat: adds a hoc to allow for breakpoints on stylesheets
     "prop-types": "15.6.0",
     "react-native-web": "0.1.7"
   },
