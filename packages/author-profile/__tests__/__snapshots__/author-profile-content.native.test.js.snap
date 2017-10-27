@@ -486,14 +486,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -504,8 +504,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -548,14 +548,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -566,8 +566,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -592,14 +592,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -610,8 +610,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -636,14 +636,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -654,8 +654,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -683,14 +683,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -701,8 +701,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -817,14 +817,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -835,8 +835,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -879,14 +879,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -897,8 +897,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -923,14 +923,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -941,8 +941,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -967,14 +967,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -985,8 +985,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1014,14 +1014,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1032,8 +1032,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1148,14 +1148,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -1166,8 +1166,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -1210,14 +1210,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -1228,8 +1228,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1254,14 +1254,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1272,8 +1272,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1298,14 +1298,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1316,8 +1316,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1345,14 +1345,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1363,8 +1363,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1479,14 +1479,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -1497,8 +1497,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -1541,14 +1541,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -1559,8 +1559,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1585,14 +1585,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1603,8 +1603,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1629,14 +1629,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1647,8 +1647,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1676,14 +1676,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1694,8 +1694,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1810,14 +1810,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -1828,8 +1828,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -1872,14 +1872,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -1890,8 +1890,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1916,14 +1916,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1934,8 +1934,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -1960,14 +1960,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -1978,8 +1978,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2007,14 +2007,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2025,8 +2025,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2141,14 +2141,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -2159,8 +2159,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -2203,14 +2203,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -2221,8 +2221,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2247,14 +2247,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2265,8 +2265,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2291,14 +2291,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2309,8 +2309,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2338,14 +2338,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2356,8 +2356,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2472,14 +2472,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -2490,8 +2490,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -2534,14 +2534,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -2552,8 +2552,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2578,14 +2578,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2596,8 +2596,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2622,14 +2622,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2640,8 +2640,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2669,14 +2669,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2687,8 +2687,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2803,14 +2803,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -2821,8 +2821,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -2865,14 +2865,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -2883,8 +2883,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2909,14 +2909,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2927,8 +2927,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -2953,14 +2953,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -2971,8 +2971,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3000,14 +3000,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3018,8 +3018,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3134,14 +3134,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -3152,8 +3152,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -3196,14 +3196,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -3214,8 +3214,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3240,14 +3240,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3258,8 +3258,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3284,14 +3284,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3302,8 +3302,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3331,14 +3331,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3349,8 +3349,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3465,14 +3465,14 @@ exports[`renders profile content 1`] = `
                     <BVLinearGradient
                       colors={
                         Array [
-                          "#ededed",
                           "#f9f9f9",
+                          "#ededed",
                         ]
                       }
                       end={
                         Object {
-                          "x": 1,
-                          "y": 0.25685517452260576,
+                          "x": -0.09302964577578221,
+                          "y": 0.11488204504197774,
                         }
                       }
                       locations={
@@ -3483,8 +3483,8 @@ exports[`renders profile content 1`] = `
                       }
                       start={
                         Object {
-                          "x": 0,
-                          "y": 1,
+                          "x": 1,
+                          "y": 0,
                         }
                       }
                       style={
@@ -3527,14 +3527,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -3545,8 +3545,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3571,14 +3571,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3589,8 +3589,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3615,14 +3615,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3633,8 +3633,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3662,14 +3662,14 @@ exports[`renders profile content 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.27462562898771226,
+                      "x": -0.049525179317961854,
+                      "y": 0.05500328394968961,
                     }
                   }
                   locations={
@@ -3680,8 +3680,8 @@ exports[`renders profile content 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -3843,14 +3843,121 @@ exports[`renders profile content component 1`] = `
       },
       Object {
         "__typename": "Article",
-        "content": Array [],
+        "content": Array [
+          Object {
+            "attributes": Object {},
+            "children": Array [
+              Object {
+                "attributes": Object {},
+                "children": Array [
+                  Object {
+                    "attributes": Object {
+                      "value": "Victoria",
+                    },
+                    "children": Array [],
+                    "name": "text",
+                  },
+                ],
+                "name": "bold",
+              },
+              Object {
+                "attributes": Object {},
+                "children": Array [],
+                "name": "break",
+              },
+              Object {
+                "attributes": Object {
+                  "value": " ITV",
+                },
+                "children": Array [],
+                "name": "text",
+              },
+              Object {
+                "attributes": Object {},
+                "children": Array [],
+                "name": "break",
+              },
+              Object {
+                "attributes": Object {
+                  "value": "★★★★☆",
+                },
+                "children": Array [],
+                "name": "text",
+              },
+            ],
+            "name": "paragraph",
+          },
+          Object {
+            "attributes": Object {},
+            "children": Array [
+              Object {
+                "attributes": Object {},
+                "children": Array [
+                  Object {
+                    "attributes": Object {
+                      "value": "Lucy Worsley’s Nights at the Opera",
+                    },
+                    "children": Array [],
+                    "name": "text",
+                  },
+                ],
+                "name": "bold",
+              },
+              Object {
+                "attributes": Object {},
+                "children": Array [],
+                "name": "break",
+              },
+              Object {
+                "attributes": Object {
+                  "value": " BBC Two",
+                },
+                "children": Array [],
+                "name": "text",
+              },
+              Object {
+                "attributes": Object {},
+                "children": Array [],
+                "name": "break",
+              },
+              Object {
+                "attributes": Object {
+                  "value": "★★★☆☆",
+                },
+                "children": Array [],
+                "name": "text",
+              },
+            ],
+            "name": "paragraph",
+          },
+          Object {
+            "attributes": Object {},
+            "children": Array [
+              Object {
+                "attributes": Object {
+                  "value": "Poor old Harriet, Duchess of Sutherland. There she was giddily expecting a",
+                },
+                "children": Array [],
+                "name": "text",
+              },
+            ],
+            "name": "paragraph",
+          },
+        ],
         "id": "1f18ebd0-671f-40e0-a190-82dd8af1a294",
         "label": null,
-        "leadAsset": null,
+        "leadAsset": Object {
+          "__typename": "Image",
+          "crop": Object {
+            "__typename": "Crop",
+            "url": "//www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2bb30674-b008-11e7-8f75-2b6f1159f66f.jpg?crop=4815%2C2708%2C85%2C1833",
+          },
+          "title": "",
+        },
         "publicationName": "TIMES",
-        "publishedTime": 2015-03-23T23:06:34.000Z,
-        "title": "A blank article with a server rendered component",
-        "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/a-blank-article-with-a-server-rendered-component-d06vmvz08",
+        "publishedTime": 2015-03-17T23:00:44.000Z,
+        "title": "TV review: Victoria; Lucy Worsley’s Nights at the Opera",
+        "url": "https://www.thetimes.co.uk/article/tv-review-victoria-lucy-worsleys-nights-at-the-opera-x2q80h7gj",
       },
       Object {
         "__typename": "Article",
@@ -4185,188 +4292,6 @@ exports[`renders profile content component 1`] = `
                   Object {
                     "flexDirection": "row",
                   },
-<<<<<<< HEAD
-                ],
-                "name": "italic",
-              },
-            ],
-            "name": "paragraph",
-          },
-        ],
-        "id": "97c64f20-cb67-11e4-a202-50ac5def393a",
-        "label": null,
-        "leadAsset": Object {
-          "__typename": "Image",
-          "crop": Object {
-            "__typename": "Crop",
-            "url": "//nu-cps-imgsrv-tnl-dev-webapp.elb.tnl-dev.ntch.co.uk/imageserver/image/90cfa89f4ebe003ab967e64b9c79c9afa520c273.jpg?crop=620%2C413%2C0%2C0",
-          },
-          "title": "British trio stopped on the way to join Isis",
-        },
-        "publicationName": "TIMES",
-        "publishedTime": 2015-03-23T23:06:34.000Z,
-        "title": "British trio stopped on the way to join Isis",
-        "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/british-trio-stopped-on-the-way-to-join-isis-57nwljmbn",
-      },
-      Object {
-        "__typename": "Article",
-        "content": Array [
-          Object {
-            "attributes": Object {},
-            "children": Array [
-              Object {
-                "attributes": Object {},
-                "children": Array [
-                  Object {
-                    "attributes": Object {
-                      "value": "Victoria",
-                    },
-                    "children": Array [],
-                    "name": "text",
-                  },
-                ],
-                "name": "bold",
-              },
-              Object {
-                "attributes": Object {},
-                "children": Array [],
-                "name": "break",
-              },
-              Object {
-                "attributes": Object {
-                  "value": " ITV",
-                },
-                "children": Array [],
-                "name": "text",
-              },
-              Object {
-                "attributes": Object {},
-                "children": Array [],
-                "name": "break",
-              },
-              Object {
-                "attributes": Object {
-                  "value": "★★★★☆",
-                },
-                "children": Array [],
-                "name": "text",
-              },
-            ],
-            "name": "paragraph",
-          },
-          Object {
-            "attributes": Object {},
-            "children": Array [
-              Object {
-                "attributes": Object {},
-                "children": Array [
-                  Object {
-                    "attributes": Object {
-                      "value": "Lucy Worsley’s Nights at the Opera",
-                    },
-                    "children": Array [],
-                    "name": "text",
-                  },
-                ],
-                "name": "bold",
-              },
-              Object {
-                "attributes": Object {},
-                "children": Array [],
-                "name": "break",
-              },
-              Object {
-                "attributes": Object {
-                  "value": " BBC Two",
-                },
-                "children": Array [],
-                "name": "text",
-              },
-              Object {
-                "attributes": Object {},
-                "children": Array [],
-                "name": "break",
-              },
-              Object {
-                "attributes": Object {
-                  "value": "★★★☆☆",
-                },
-                "children": Array [],
-                "name": "text",
-              },
-            ],
-            "name": "paragraph",
-          },
-          Object {
-            "attributes": Object {},
-            "children": Array [
-              Object {
-                "attributes": Object {
-                  "value": "Poor old Harriet, Duchess of Sutherland. There she was giddily expecting a",
-                },
-                "children": Array [],
-                "name": "text",
-              },
-            ],
-            "name": "paragraph",
-          },
-        ],
-        "id": "1f18ebd0-671f-40e0-a190-82dd8af1a294",
-        "label": null,
-        "leadAsset": Object {
-          "__typename": "Image",
-          "crop": Object {
-            "__typename": "Crop",
-            "url": "//www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2bb30674-b008-11e7-8f75-2b6f1159f66f.jpg?crop=4815%2C2708%2C85%2C1833",
-          },
-          "title": "",
-        },
-        "publicationName": "TIMES",
-        "publishedTime": 2015-03-17T23:00:44.000Z,
-        "title": "TV review: Victoria; Lucy Worsley’s Nights at the Opera",
-        "url": "https://www.thetimes.co.uk/article/tv-review-victoria-lucy-worsleys-nights-at-the-opera-x2q80h7gj",
-      },
-      Object {
-        "__typename": "Article",
-        "content": Array [],
-        "id": "2c18ebd0-671f-40e0-a190-82dd8af1a294",
-        "label": null,
-        "leadAsset": null,
-        "publicationName": "TIMES",
-        "publishedTime": 2015-03-23T23:06:34.000Z,
-        "title": "A blank article with a server rendered component",
-        "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/a-blank-article-with-a-server-rendered-component-35pjwxj8n",
-      },
-    ]
-  }
-  disableVirtualization={false}
-  getItem={[Function]}
-  getItemCount={[Function]}
-  horizontal={false}
-  initialListSize={3}
-  initialNumToRender={10}
-  keyExtractor={[Function]}
-  maxToRenderPerBatch={10}
-  numColumns={1}
-  onContentSizeChange={[Function]}
-  onEndReachedThreshold={2}
-  onLayout={[Function]}
-  onMomentumScrollEnd={[Function]}
-  onScroll={[Function]}
-  onScrollBeginDrag={[Function]}
-  onScrollEndDrag={[Function]}
-  onViewableItemsChanged={undefined}
-  pageSize={3}
-  renderItem={[Function]}
-  scrollEventThrottle={50}
-  scrollRenderAheadDistance={2}
-  stickyHeaderIndices={Array []}
-  testID="scroll-view"
-  updateCellsBatchingPeriod={50}
-  windowSize={21}
->
-  <View>
-=======
                   undefined,
                 ]
               }
@@ -4421,14 +4346,14 @@ exports[`renders profile content component 1`] = `
                       <BVLinearGradient
                         colors={
                           Array [
-                            "#ededed",
                             "#f9f9f9",
+                            "#ededed",
                           ]
                         }
                         end={
                           Object {
-                            "x": 1,
-                            "y": 0.25685517452260576,
+                            "x": -0.09302964577578221,
+                            "y": 0.11488204504197774,
                           }
                         }
                         locations={
@@ -4439,8 +4364,8 @@ exports[`renders profile content component 1`] = `
                         }
                         start={
                           Object {
-                            "x": 0,
-                            "y": 1,
+                            "x": 1,
+                            "y": 0,
                           }
                         }
                         style={
@@ -4527,7 +4452,7 @@ exports[`renders profile content component 1`] = `
                       disabled={false}
                       ellipsizeMode="tail"
                     >
-                      A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State, 
+                      A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State,
                       <Text
                         accessible={true}
                         allowFontScaling={true}
@@ -4541,6 +4466,7 @@ exports[`renders profile content component 1`] = `
                       >
                         The
                       </Text>
+                      ...
                     </Text>
                   </Text>
                   <Text
@@ -4588,7 +4514,6 @@ exports[`renders profile content component 1`] = `
         />
       </View>
     </View>
->>>>>>> feat: move loading from the image to the image
     <View
       onLayout={[Function]}
       style={null}
@@ -4653,6 +4578,90 @@ exports[`renders profile content component 1`] = `
                     },
                     Object {
                       "flexBasis": 0,
+                      "flexGrow": 2,
+                      "marginBottom": 0,
+                      "marginRight": 10,
+                    },
+                  ]
+                }
+              >
+                <Image
+                  aspectRatio={1.5}
+                  onLoad={[Function]}
+                  source={
+                    Object {
+                      "uri": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2bb30674-b008-11e7-8f75-2b6f1159f66f.jpg?crop=4815%2C2708%2C85%2C1833",
+                    }
+                  }
+                  style={undefined}
+                >
+                  <View
+                    onLayout={[Function]}
+                    style={
+                      Array [
+                        Object {
+                          "flex": 1,
+                        },
+                        null,
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "flex": 1,
+                          },
+                          undefined,
+                        ]
+                      }
+                    >
+                      <BVLinearGradient
+                        colors={
+                          Array [
+                            "#f9f9f9",
+                            "#ededed",
+                          ]
+                        }
+                        end={
+                          Object {
+                            "x": -0.09302964577578221,
+                            "y": 0.11488204504197774,
+                          }
+                        }
+                        locations={
+                          Array [
+                            0,
+                            1,
+                          ]
+                        }
+                        start={
+                          Object {
+                            "x": 1,
+                            "y": 0,
+                          }
+                        }
+                        style={
+                          Array [
+                            Object {
+                              "flex": 1,
+                            },
+                          ]
+                        }
+                      />
+                    </View>
+                  </View>
+                </Image>
+              </View>
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexGrow": 1,
+                      "flexShrink": 1,
+                    },
+                    Object {
+                      "flexBasis": 0,
                       "flexGrow": 3,
                     },
                   ]
@@ -4692,7 +4701,7 @@ exports[`renders profile content component 1`] = `
                       }
                     }
                   >
-                    A blank article with a server rendered component
+                    TV review: Victoria; Lucy Worsley’s Nights at the Opera
                   </Text>
                   <Text
                     accessible={true}
@@ -4709,7 +4718,99 @@ exports[`renders profile content component 1`] = `
                         "marginBottom": 10,
                       }
                     }
-                  />
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    >
+                      
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Object {
+                            "fontWeight": "bold",
+                          }
+                        }
+                      >
+                        Victoria
+                      </Text>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                      >
+                        
+                        
+                      </Text>
+                      ITV
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                      >
+                        
+                        
+                      </Text>
+                      ★★★★☆
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    >
+                       
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                        style={
+                          Object {
+                            "fontWeight": "bold",
+                          }
+                        }
+                      >
+                        Lucy Worsley’s Nights at the Opera
+                      </Text>
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                      >
+                        
+                        
+                      </Text>
+                      BBC Two
+                      <Text
+                        accessible={true}
+                        allowFontScaling={true}
+                        disabled={false}
+                        ellipsizeMode="tail"
+                      >
+                        
+                        
+                      </Text>
+                      ★★★☆☆
+                    </Text>
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      disabled={false}
+                      ellipsizeMode="tail"
+                    >
+                      Poor old Harriet, Duchess of Sutherland. There she was giddily expecting a
+                      ...
+                    </Text>
+                  </Text>
                   <Text
                     accessible={true}
                     allowFontScaling={true}
@@ -4728,7 +4829,7 @@ exports[`renders profile content component 1`] = `
                     }
                     testID="datePublication"
                   >
-                    Monday March 23 2015
+                    Tuesday March 17 2015
                     , The Times
                   </Text>
                 </View>
@@ -5136,14 +5237,14 @@ exports[`renders profile content item component 1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -5154,8 +5255,8 @@ exports[`renders profile content item component 1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -5242,7 +5343,7 @@ exports[`renders profile content item component 1`] = `
                 disabled={false}
                 ellipsizeMode="tail"
               >
-                A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State, 
+                A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State,
                 <Text
                   accessible={true}
                   allowFontScaling={true}
@@ -5256,6 +5357,7 @@ exports[`renders profile content item component 1`] = `
                 >
                   The
                 </Text>
+                ...
               </Text>
             </Text>
             <Text
@@ -5386,14 +5488,14 @@ exports[`renders profile content item component with no image  1`] = `
                 <BVLinearGradient
                   colors={
                     Array [
-                      "#ededed",
                       "#f9f9f9",
+                      "#ededed",
                     ]
                   }
                   end={
                     Object {
-                      "x": 1,
-                      "y": 0.25685517452260576,
+                      "x": -0.09302964577578221,
+                      "y": 0.11488204504197774,
                     }
                   }
                   locations={
@@ -5404,8 +5506,8 @@ exports[`renders profile content item component with no image  1`] = `
                   }
                   start={
                     Object {
-                      "x": 0,
-                      "y": 1,
+                      "x": 1,
+                      "y": 0,
                     }
                   }
                   style={
@@ -5492,7 +5594,7 @@ exports[`renders profile content item component with no image  1`] = `
                 disabled={false}
                 ellipsizeMode="tail"
               >
-                A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State, 
+                A tip-off from desperate parents led Turkish police to swoop on three British teenagers as they allegedly travelled to join Islamic State,
                 <Text
                   accessible={true}
                   allowFontScaling={true}
@@ -5506,6 +5608,7 @@ exports[`renders profile content item component with no image  1`] = `
                 >
                   The
                 </Text>
+                ...
               </Text>
             </Text>
             <Text
